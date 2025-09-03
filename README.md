@@ -71,7 +71,9 @@ Excel, Jupyter Notebooks, VS Code, Slack, Airtable, Hive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <!-- Data & Viz -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" alt="Tableau"/>
+<p align="left">
+  <!-- Tableau -->
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
@@ -82,8 +84,9 @@ Excel, Jupyter Notebooks, VS Code, Slack, Airtable, Hive
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" alt="Excel"/>
-</p>
+<!-- Excel -->
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/>
+</p></p>
 
 ---
 
