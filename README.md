@@ -21,9 +21,11 @@
 
 ---
 
-## 🎯 What languages do I mostly use?
+## 🎯 What languages & tools do I mostly use?
 - **Python** – for data analysis, cleaning, automation, and visualisation.
-- **SQL** – for querying, transforming, and analysing structured data.
+- **Tableau & Power BI** – for interactive dashboards and powerful data visualisation.
+- **Jupyter Notebook** – for analytical workflows, storytelling with code and data.
+- **AI** – always experimenting with new models and intelligent tools!
 
 ---
 
@@ -54,8 +56,8 @@ Excel, Jupyter Notebooks, VS Code, Slack, Airtable, Hive
 
 - **Data Analytics:** Python (Pandas, NumPy), SQL, Tableau, Power BI (learning)
 - **Machine Learning (intro):** Scikit-learn, basic supervised models
-- **Collaboration & Ops:** GitHub, Jira, Notion, Airtable, Intercom
-- **Cloud Concepts:** Familiar with GCP basics (data pipelines, storage, dashboards)
+- **Collaboration & Ops:** GitHub, Jira, Notion, Airtable, Intercom, Zendesk
+- **Cloud Concepts:** Familiar with GCP basics and NetSuite (data pipelines, storage, dashboards)
 
 ---
 
