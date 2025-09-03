@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fazestar01" alt="Fazestar01" /> </p>
 
-<div style="text-align: right">Well behaved women rarely make history 🌟 💅🏽...</div>
+<div style="text-align: right"> Quote of the Year : Well behaved women rarely make history 🌟 💅🏽...</div>
 
 ## :art: Things I Love
 * Everything creative
